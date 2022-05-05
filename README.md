@@ -1,2 +1,2 @@
-# Deteksi-Penyakit-dengan-CNN
-Mendeteksi penyakit pada daun tanaman apel menggunakan Convolutional Neural Network
+# Plant Disease Detection using CNN
+Detecting plant disease based on leaf picture from apple trees using Convolutional Neural Network 
